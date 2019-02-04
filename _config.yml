@@ -7,4 +7,4 @@ relative_links:
 include:
   - README.md
 
-remote_theme: nielsenramon/chalk
+remote_theme: broccolini/swiss
