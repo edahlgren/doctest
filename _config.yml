@@ -1,10 +1,9 @@
 plugins:
   - jekyll-relative-links
-  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
 include:
   - README.md
 
-remote_theme: broccolini/swiss
+theme: jekyll-theme-minimal
